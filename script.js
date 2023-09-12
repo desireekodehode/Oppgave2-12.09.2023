@@ -15,3 +15,4 @@ function getRandomNumberGenerator (maxNumber) {
 }
 
 console.log()
+
