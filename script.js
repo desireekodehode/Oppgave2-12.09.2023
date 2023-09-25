@@ -2,7 +2,8 @@
 
 
 
-let randomNumberGenerator = Math.round(Math.random()* 19) + 1;
+let randomNumberGenerator = Math.round(Math.random()* 8) + 1;
+
 if (randomNumberGenerator >10) {
     console.log("Tallet er større enn 10");
 } else {
